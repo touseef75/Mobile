@@ -1,0 +1,20 @@
+
+
+1.Make User Send Request on Ride with option to give their own fare charges  (done)
+2.Driver Accept the Ride (done)
+3.Send In-App Notification on Ride Request And Ride Accept (done)
+4.Both rider and Passenger Chat (done)
+5.Add Background Notification (done)
+6.Add Ride Report
+7.Finish or Cancle or start Ride Options (done)
+8.Add Ride Rating
+9.search Rides (done)
+10.show rides based on loaction (done)
+11.remove sensative info from get request routes (done)
+12.Add Privacy Policy (done)
+13.User Send Background Notification On Request Send / accept / cancled
+
+
+===================================
+THINK OF BETTER SECURITY MEASURES
+===================================

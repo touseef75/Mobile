@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "rideAndshare",
+    "slug": "snack-7afbaa78-09e1-4f9a-85f2-865853d0d0e5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.ride.share.faiezwaseem"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
